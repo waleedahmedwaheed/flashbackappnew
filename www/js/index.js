@@ -59,5 +59,6 @@ var app = {
 			window.location="error.html";
 		}
 		
-		window.open("https://www.trend-bags.com/flashbachsocial/flashback/register.php","_self");
+		//window.open("https://www.trend-bags.com/flashbachsocial/flashback/register.php","_self");
+		location.href = "https://www.trend-bags.com/flashbachsocial/flashback/register.php";
  	
