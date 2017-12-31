@@ -60,5 +60,5 @@ var app = {
 		}
 		
 		//window.open("https://www.trend-bags.com/flashbachsocial/flashback/register.php","_self");
-		location.href = "https://www.trend-bags.com/flashbachsocial/flashback/register.php";
+		//location.href = "https://www.trend-bags.com/flashbachsocial/flashback/register.php";
  	
